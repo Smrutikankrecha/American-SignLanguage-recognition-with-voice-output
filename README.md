@@ -1,4 +1,4 @@
-# American Sign Language Dataset Preprocessing with Real-Time Prediction
+## American-SignLanguage-recognition-with-voice-output
 
 This repository contains a Python-based project for collecting images of American Sign Language (ASL) gestures, extracting hand landmarks using MediaPipe, and training a machine learning model (XGBoost) for real-time character prediction.
 
